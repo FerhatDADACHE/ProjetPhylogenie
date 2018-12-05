@@ -1,1 +1,1 @@
-Affichez le notebook pour plus d'information
+Accédez dans le dossier notebook puis cliquez sur phylogenie2.ipynb pour plus d'information.
